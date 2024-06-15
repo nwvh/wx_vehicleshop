@@ -8,3 +8,4 @@
 - Test Drive
 - Server side
 - Writing to DB
+- the whole fucking resource
